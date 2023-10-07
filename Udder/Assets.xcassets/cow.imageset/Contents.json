@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "스크린샷 2023-10-07 오후 6.02.51.png",
+      "filename" : "cow 1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "cow 2.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "cow 3.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

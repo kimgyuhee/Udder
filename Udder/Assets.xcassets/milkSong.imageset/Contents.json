@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "스크린샷 2023-10-07 오후 5.44.18.png",
+      "filename" : "milkSong 1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "milkSong 2.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "milkSong 3.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
